@@ -5,9 +5,12 @@
 ```@BilestoX *#5346```
 
 ## 🌀 Support
+[***View Live***](https://Bot-Discord-website.lhajbilestox.repl.co)
+
 
 [***Youtube Channel***](https://www.youtube.com/channel/UC5FxaVVR1JBHJjo6_SigGfQ)
 
 [***Developer-Support***](https://discord.gg/developer-support)
 
 [***My Bot Shiper***](https://Shuper-bot.ga)
+
